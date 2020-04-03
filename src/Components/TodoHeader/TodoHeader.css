@@ -1,0 +1,24 @@
+#todoHeaderDiv {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    background-color: #f2f4f6;
+    font-family: "Open Sans", sans-serif;
+}
+
+#todoHeader {
+    color: #0d3f67;
+    margin-left: 10px;
+    /* 
+    f2f4f6 smoke gray
+    1ee3cf Greensish
+    6b48ff BLUE
+    0d3f67 Dark Blue
+     */
+    
+}
+
+#todoHeaderDate {
+    color: #0d3f67;
+    margin-right: 10px;
+}
